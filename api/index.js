@@ -676,10 +676,10 @@ const datas = [
     categori: "Cub",
     foto: "https://www.yamaha-motor.co.id/uploads/products/new_product_banner/2023050409260973095M84689.jpg",
     image:
-      "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2022122614552931399E32709.png",
+      "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2023050409264224392I23435.png",
     price: "Rp.23.000.000,00",
     color: [
-      "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2022122614552931399E32709.png",
+      "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2023050409264224392I23435.png",
       "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2023050409263464117J65678.png",
       "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2023050409270252409S95874.png",
     ],
