@@ -13,9 +13,9 @@ const datas = [
     price: "Rp.18.000.000,00",
     color: [
       "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto,pr-true/uploads/product-draft/colors/matte-blue-2-03062024-045618.png",
-      "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto,pr-true/uploads/product-draft/colors/matte-blue-2-03062024-045618.png",
+      "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto,pr-true/uploads/product-draft/colors/matte-green-03062024-045634.png",
       "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto,pr-true/uploads/product-draft/colors/matte-black-3-03062024-045648.png",
-      "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto,pr-true/uploads/product-draft/colors/matte-black-3-03062024-045648.png",
+      "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto,pr-true/uploads/product-draft/colors/deluxe-black1-03062024-064019.png",
       "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto,pr-true/uploads/product-draft/colors/matte-silver-03062024-045718.png",
       "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto,pr-true/uploads/product-draft/colors/beat-street-varian-515x504-02-03062024-064155.png",
     ],
@@ -297,7 +297,7 @@ const datas = [
     categori: "Sport",
     foto: "https://www.astra-honda.com/hondabigbike/photos/20230510145949_honda-rebel.jpg",
     image:
-      "https://www.astra-honda.com/hondabigbike/photos/20230510145942_honda-rebel.png",
+      "https://www.astra-honda.com/hondabigbike/media/854/rebel-gray_800x600px_1.png",
     price: "Rp.203.000.000,00",
     color: [
       "https://www.astra-honda.com/hondabigbike/media/854/rebel-gray_800x600px_1.png",
@@ -707,10 +707,10 @@ const datas = [
     categori: "Cub",
     foto: "https://www.yamaha-motor.co.id/uploads/products/new_product_banner/2023100316344677758A65820.jpg",
     image:
-      "https://www.yamaha-motor.co.id/uploads/products/featured_image/2023100316355355262E80911.png",
+      "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2023050409270252409S95874.png",
     price: "Rp.21.000.000,00",
     color: [
-      "https://www.yamaha-motor.co.id/uploads/products/featured_image/2023100316355355262E80911.png",
+      "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2023050409270252409S95874.png",
       "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2023100316345928904E66880.png",
       "https://www.yamaha-motor.co.id/uploads/products/new_product_model_image/2023100316351142856J55889.png",
     ],
@@ -756,6 +756,34 @@ const datas = [
       Sistem_Bahan_Bakar: "Fuel Injection System (FI)",
       Tipe_Kopling: "Basah, Kopling Otomatis, Multiplat",
       Tipe_Transmisi: "Constant Mesh, 4 Kecepatan",
+    },
+  },
+  {
+    id: 27,
+    name: "Revo",
+    categori: "Cub",
+    foto: "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-1200,pr-true,f-auto/uploads/product-draft/banner/new-product-banner-18012022-080447-24012022-110743-1-25102023-075117.jpg",
+    image:
+      "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto/uploads/product/thumbnail/thmbnail-product-2-24012022-110536.png",
+    price: "Rp.16.500.000,00",
+    color: [
+      "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto,pr-true/uploads/product-draft/colors/attractive-red-2-24012022-110047.jpg",
+      "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto,pr-true/uploads/product-draft/colors/quantum-black-4-24012022-110051.jpg",
+      "https://ik.imagekit.io/zlt25mb52fx/ahmcdn/tr:w-550,f-auto,pr-true/uploads/product-draft/colors/galaxy-blue-2-24012022-110058.jpg",
+    ],
+    desc: {
+      Tipe_Mesin: "SOHC, 4 Langkah, SOHC, Silinder Tunggal",
+      Kapasitas_Mesin: "109,17 cm3",
+      Sistem_Suplai_Bahan_Bakar: "Injeksi/PGM-FI (Programmed Fuel Injection)",
+      Diameter_X_Langkah: "50 x 55,6 mm",
+      Tipe_Tranmisi: "4 Kecepatan",
+      Rasio_Kompresi: "9,3:1",
+      Daya_Maksimum: "6,56kW (8,91 PS) / 7.500 rpm",
+      Torsi_Maksimum: "8,76 Nm (0,86 kgf.m) / 6.000 rpm",
+      Tipe_Starter: "Starter Kaki & Starter Elektrik",
+      Tipe_Kopling: "Multiplate Wet Clutch with Diaphrgam Spring",
+      Sistem_Pendingin_Mesin: "Pendingin Udara",
+      Pola_Perpindahan_Gigi: "N-1-2-3-4-N",
     },
   },
 ];
